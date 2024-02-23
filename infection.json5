@@ -11,7 +11,7 @@
         },
         "html": "var/infection.html"
     },
-    "timeout": 10,
+    "timeout": 20,
     "mutators": {
         "@default": true
     },
